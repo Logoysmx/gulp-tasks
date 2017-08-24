@@ -1,0 +1,18 @@
+{
+  "version": "0.1.0",
+  "git_branch": "performance",
+  "author": "ifh",
+  "path_app": "./",
+  "env": {
+    "development": {
+      "ENV": "development",
+      "SERVICE_URL": "https://15.128.25.221:98/mortgagequote/",
+      "PORT": 7281
+    },
+    "production": {
+      "ENV": "production",
+      "SERVICE_URL": "https://www.banorte.com/mortgagequote/",
+      "PORT": 7282
+    }
+  }
+}

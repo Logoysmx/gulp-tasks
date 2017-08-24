@@ -1,0 +1,36 @@
+{
+  "name": "originacion",
+  "version": "0.0.0",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "1.5.9",
+    "angular-route": "1.5.9",
+    "ng-currency": "",
+    "angular-messages": "1.5.9",
+    "angular-animate": "1.5.9",
+    "angular-sanitize": "1.5.9",
+    "angular-aside": "",
+    "angulartics": "",
+    "angulartics-google-analytics": "",
+    "angularjs-slider": "",
+    "dropzone": "",    
+    "angular-aria": "^1.5.0",
+    "angular-carousel": "^1.0.2",
+    "angular-input-masks": "^2.6.0",
+    "angular-material": "^1.1.4",
+    "angular-touch": "1.5.9",
+    "angular-ui-notification": "^0.3.6",
+    "animate.css": "^3.5.2",
+    "grunt-concat": "",
+    "v-accordion": "^1.6.0"
+  }
+}
